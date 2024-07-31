@@ -1,4 +1,13 @@
 h1 {
   text-align: center;
-  color: red;
+  color: pink;
+}
+form {
+  margin: 0 auto;
+  text-align: center;
+}
+#img-hello {
+  width: 50%;
+  margin: 0 auto;
+  display: block;
 }
